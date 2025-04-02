@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       subtitle: A forward-thinking LLP building next-gen brands across fashion and beyond.
     text: >
-      **Beyondwill LLP** is a Startup India-recognized company (Company No. 7907069771) dedicated to building impactful brands in fashion, lifestyle, and beyond.
+      **Beyondwill LLP** is a Startup India-recognized company (Company No. 7907069771) dedicated to building impactful brands in fashion, lifestyle, and beyond.  
       <br><br>
       We are the parent company of **Soulmonk**, an e-commerce fashion label focused on urban streetwear and comfort. With a vision to expand across sectors, we aim to craft bold, culture-driven ventures across India and globally.
     actions:
@@ -20,7 +20,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
